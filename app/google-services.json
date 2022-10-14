@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1022598879759",
+    "project_id": "koch-8a896",
+    "storage_bucket": "koch-8a896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022598879759:android:7916e16f0bcb89b963617a",
+        "android_client_info": {
+          "package_name": "com.example.koch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022598879759-ujf1u5b4s6iv8khmtt5e7qifng37epqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.koch",
+            "certificate_hash": "9e8a0f4d149ce0755bdbdfc6f56fbc04187aa72e"
+          }
+        },
+        {
+          "client_id": "1022598879759-do0tv3fihkophpt7atj4g0sa5ur572ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxG2kkpg6xco5TzemWZnjFd60_2c_SuKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022598879759-do0tv3fihkophpt7atj4g0sa5ur572ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
